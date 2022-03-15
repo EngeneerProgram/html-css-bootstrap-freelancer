@@ -5,5 +5,33 @@
 }
 .bg-success{
     height: 500px;
+    
 }
 
+
+
+.top-buffer{
+    margin-top:80px;
+    margin-bottom:80px;
+    
+    text-align: center;
+}
+
+.bg-danger{
+    height: 500px;
+}
+
+
+.bg-secondary{
+    height: 400px;
+}
+
+img{
+    margin:10px;
+}
+
+@media screen and (max-width:576px){
+    .row{
+        
+    }
+}
