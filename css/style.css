@@ -59,3 +59,20 @@ height: 100px;
     top:-35px;
     color:white;
 }
+
+.center > .bg-{
+    color:black;
+    
+}
+
+.seconda-stella{
+    display:flex;
+    justify-content: center;
+    
+}
+
+img{
+    width: 300px;
+    padding:0.5rem;
+    border-radius: 10%;
+}
