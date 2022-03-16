@@ -1,0 +1,15 @@
+
+
+.bootstrap{
+    background-color: rgba(26, 188, 156, 1);
+    height: 500px;
+}
+
+.bg-darks{
+background-color:rgba(44, 62, 80, 1);
+height: 100px;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
