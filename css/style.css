@@ -97,4 +97,12 @@ p{
 
 .btn{
     color:white;
+    display:inline;
+    
+}
+
+.container-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
