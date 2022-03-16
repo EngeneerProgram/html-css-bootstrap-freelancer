@@ -72,7 +72,29 @@ height: 100px;
 }
 
 img{
-    width: 300px;
-    padding:0.5rem;
+    max-width: 100%;
+    padding:1.5rem;
     border-radius: 10%;
+    
+}
+
+.abaut{
+    color:white;
+}
+
+.terza-stella{
+    display:flex;
+    justify-content: center;
+}
+
+.terza-stella > .center >span{
+    color:white;
+}
+
+p{
+    color:white;
+}
+
+.btn{
+    color:white;
 }
