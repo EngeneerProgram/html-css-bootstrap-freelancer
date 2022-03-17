@@ -125,10 +125,16 @@ p{
 
 .footer{
     background-color: rgba(56, 81, 106, 1);
-   ;
+   
    
 }
 
+footer > col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .footer-container{
     padding:100px;
@@ -162,11 +168,12 @@ a > i{
     align-items: center;
     justify-content: space-between;
 }
-.centro > ul > li > a{
-    padding:30px;
+ ul > li > a{
+    padding:13px;
 }
 .fa-brands{
     color:white;
+    text-align: center;
 }
 
 .copyright{
